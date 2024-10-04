@@ -7,9 +7,7 @@ This repository contains a dataset named **NewAIMLcsv**, which consists of **126
 The dataset includes the following attributes:
 
 - **brokered by**: Categorially encoded agency/broker responsible for the listing.
-- **status**: Indicates the housing status, which can be:
-  - a. Ready for sale
-  - b. Ready to build
+- **status**: Indicates the housing status, which can be: Ready for sale or Sold.
 - **price**: The housing price, which can either be the current listing price or the recently sold price if the house has been sold recently.
 - **bed**: The number of bedrooms in the property.
 - **bath**: The number of bathrooms in the property.
