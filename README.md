@@ -1,7 +1,10 @@
-# Capstone Project: Housing Price Analysis
+# Capstone Project: Housing Prices Analysis
 
 ## Dataset Overview
 This repository contains a dataset named **NewAIMLcsv**, which consists of **126,766 entries** related to real estate listings and transactions. The dataset includes various attributes that provide insights into housing status, pricing, and property characteristics.
+
+This data was initially retrieved from Kaggle link below: 
+https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset/data
 
 ## Dataset Attributes
 The dataset includes the following attributes:
